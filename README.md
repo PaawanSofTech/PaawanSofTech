@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://burhanb53.me)
 
-<h1 align="center">Hi 👋, I'm Burhanuddin Bohra</h1>
+<h1 align="center">Hi 👋, I'm Paawan SofTech</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400"src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Technology, MySQL, PHP**
 
-- 📫 How to reach me **burhanuddinb542@gmail.com**
+- 📫 How to reach me **paawansharma0304@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
