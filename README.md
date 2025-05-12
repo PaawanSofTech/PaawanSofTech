@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paawansoftech" alt="paawansoftech" /></a> </p>
 
-- 🌱 I’m currently learning **Express JS, CyberSec**
+- 🌱 I’m currently learning **.NET, CyberSec & Networking**
 
-- 👨‍💻 All of my projects are available at [paawan.vercel.app](paawan.vercel.app)
-
-- 💬 Ask me about **React JS, Solidity and JAVA**
+- 💬 Ask me about **Solidity and JAVA**
 
 - 📫 How to reach me **paawansharma0304@gmail.com**
 
