@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paawansoftech" alt="paawansoftech" /></a> </p>
 
-- 🌱 I’m currently learning **.NET, CyberSec & Networking**
-
-- 💬 Ask me about **Solidity and JAVA**
+- 💬 Ask me about **.NET, Networking**
 
 - 📫 How to reach me **paawansharma0304@gmail.com**
 
